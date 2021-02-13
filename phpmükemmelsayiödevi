@@ -1,0 +1,22 @@
+<?php
+$i=0; 
+$toplam=0; 
+while($toplam<=3) 
+{
+	$i++; 
+	$itoplam=0;
+	for($k=1;$k<$i;$k++) 
+	{
+		
+		if($i  % $k == 0) 
+		{
+			$itoplam+=$k; 
+		}
+	}
+	if($itoplam==$i) 
+	{
+		echo "$i <br />";
+		$toplam++;
+	}
+}
+?>
