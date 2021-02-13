@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Satranç Tahtası</title>
+        <link rel="stylesheet" type="text/css"href="style.css"
+
+    </head>
+    <body>
+        <h1>Zeynep Satranç Tahtası</h1>
+
+        <table>
+            <tr>
+                <td></td>
+                <td class = "siyah"></td>
+                <td></td>
+                <td class ="siyah"></td>
+                <td></td>
+                <td class ="siyah"></td>
+                <td></td>
+                <td class ="siyah"></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td class ="siyah"></td>
+                <td></td>
+                <td class ="siyah"></td>
+                <td></td>
+                <td class ="siyah"></td>
+                <td></td>
+                <td class ="siyah"></td>
+                <td></td>
+                <td class ="siyah"></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td class ="siyah"></td>
+                <td></td>
+                <td class ="siyah"></td>
+                <td></td>
+                <td class ="siyah"></td>
+                <td></td>
+                <td class ="siyah"></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td class ="siyah"></td>
+                <td></td>
+                <td class ="siyah"></td>
+                <td></td>
+                <td class ="siyah"></td>
+                <td></td>
+                <td class ="siyah"></td>
+                <td></td>
+                <td class ="siyah"></td>
+
+            </tr>
+            <tr>
+                <td></td>
+                <td class ="siyah"></td>
+                <td></td>
+                <td class ="siyah"></td>
+                <td></td>
+                <td class ="siyah"></td>
+                <td></td>
+                <td class ="siyah"></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td class ="siyah"></td>
+                <td></td>
+                <td class ="siyah"></td>
+                <td></td>
+                <td class ="siyah"></td>
+                <td></td>
+                <td class ="siyah"></td>
+                <td></td>
+                <td class ="siyah"></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td class ="siyah"></td>
+                <td></td>
+                <td class ="siyah"></td>
+                <td></td>
+                <td class ="siyah"></td>
+                <td></td>
+                <td class ="siyah"></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td class ="siyah"></td>
+                <td></td>
+                <td class ="siyah"></td>
+                <td></td>
+                <td class ="siyah"></td>
+                <td></td>
+                <td class ="siyah"></td>
+                <td></td>
+                <td class ="siyah"></td>
+
+            </tr>
+            <tr>
+                <td></td>
+                <td class ="siyah"></td>
+                <td></td>
+                <td class ="siyah"></td>
+                <td></td>
+                <td class ="siyah"></td>
+                <td></td>
+                <td class ="siyah"></td>
+                <td></td>
+            </tr>
+        </table>
+    </body>
+</html>
+
+
+
+
+
+
+CSS İLE DEVAMI
+
+body{
+    background: #0f2634;
+}
+h1{
+    color:white;
+    font-family: sans-serif;
+    text-align:center;
+    font-size:1.5em;
+}
+table{
+    margin: auto;
+    border: 15px solid yellow;
+    border-spacing: 5px;
+}
+table td{
+    width: 65px;
+    height: 65px;
+    background: #f5f5f5;
+    text-align: center;
+    border: 2px solid #0f2634;
+
+}
+.siyah{
+    background: black;
+}
+img{
+    position: relative;
+    width: 55px;
+    height: 55px;
+    top: 0;
+}
+
+
+
+
+
+
