@@ -1,0 +1,27 @@
+<?php
+function date($format,$timestamp='time()'){}
+
+
+?>
+<?php
+if (($saat <=10.00) && ($saat >=06.00))
+{
+echo "Günaydın";
+}
+elseif (($saat >=10.00) && ($saat <=17.00))
+{
+echo "İyi günler";
+}
+elseif (($saat >=20.00 and $saat <=17.00))
+{
+echo "İyi Akşamlar";
+}
+elseif (($saat =20.00) and ($saat <=00.00))
+{
+echo "İyi gecler";
+}
+else
+{
+echo "Esenlikler dilerim";
+}
+?>
